@@ -48,6 +48,7 @@ namespace Glass_Rater_2
 
         private int stringToInt(string text)
         {
+            //I am Just writing somthinging to commit changes
             int val;
             int.TryParse(text, out val);
             return val;
